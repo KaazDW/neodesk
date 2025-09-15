@@ -43,14 +43,16 @@ For the moment I want to keep the code private and solo dev.<br/>
 ✅ **Custom windows settings** – Dev the feature about the windows custimization scripting <br/>
 ✅ **GUI** – Dev python GUI <br/>
 ✅ **Data** – Add data management system <br/>
+✅ **GUI (2nd)** – Rebuild UX <br/>
 ⌛ **Security** – Dev the security hardening system and security policies followed <br/>
-⬜ **Settings** – Review code organization and add a Settings feature<br/>
-⬜ **Fix & Improve** – Review and improve UX and optimization on all feature <br/>
+✅ **Fix & Improve** – Review and improve UX and optimization on all feature <br/>
 ⌛ **Website** – Dev the public website <br/>
-⬜ **Encryption** – Software encryption and release app <br/>
+⌛ **Encryption** – Software encryption and release app <br/>
 
 <br/>
 ✨ Feel free to star the repo and follow me to stay updated on new releases and future advancements.
+
+Hope on first release december 2025.
 
 
 
