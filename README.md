@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/KaazDW/neodesk/main/readme_assets/icon.svg" alt="Neodesk Icon" width="50" align="middle" style="margin-right: 10px;"/> <img src="https://raw.githubusercontent.com/KaazDW/neodesk/main/readme_assets/logo.svg" alt="Neodesk Logo" width="120" align="middle"/>
 
 **The Ultimate Windows 11 Optimization & Customization Tool**<br/>
-Inspired by Linux porn, Neodesk makes Windows 11 feel less "Windows".
+For tech to no-tech - Neodesk makes Windows 11 feel less "Windows".
 
 [![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
